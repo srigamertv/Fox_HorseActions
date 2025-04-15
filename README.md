@@ -6,7 +6,7 @@ Este script  possibilidade de empinar o cavalo (empinar) e montar de lado (amazo
 
 ## 🔥 Funcionalidades
 
-- 🐎 **Empinar o Cavalo** – Realize a ação de empinar ao pressionar uma tecla configurável.
+- 🐎 **Empinar o Cavalo** – Realize a ação de empinar ao Digitar o comando [empinar] .
 - 🧍‍♀️ **Montar de Lado** – Ideal para personagens femininas, permite montar de forma estilizada e realista.
 - ⚙️ **Configurações simples** – Fácil de configurar e personalizar.
 
